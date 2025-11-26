@@ -1,21 +1,128 @@
-# 💫 About Me:
-💻 Programming & Scripting<br><br>PHP (Secure Auth Systems, PDO, Sessions, Password Hashing)<br><br>JavaScript (Web & API integrations)<br><br>Python (Automation & AI-related tasks)<br><br>Java (JDK setup, CLI tools)<br><br>🌐 Web Development<br><br>HTML & CSS<br><br>Front-end integration with APIs<br><br>Building UI components for dashboards & blogs<br><br>Responsive layout basics<br><br>⚙️ Backend & Systems<br><br>Secure PHP backend development<br><br>Session/cookie hardening<br><br>Token-based "Remember Me" implementations<br><br>Linux terminal operations<br><br>Windows system configuration (PATH, JDK, npm)<br><br>🤖 AI, Automation & APIs<br><br>AI API integration (OpenAI, Claude, Gemini)<br><br>Prompt engineering<br><br>n8n workflow automation<br><br>Language detection, translation, sentiment pipelines<br><br>AI-generated branding & content workflows<br><br>🛠 DevOps & Tools<br><br>ADB & Android debugging<br><br>SDK & environment setup<br><br>npm / Node.js<br><br>Git & GitHub<br><br>CLI troubleshooting<br><br>🔐 Security<br><br>Secure coding practices<br><br>Sanitized database queries (PDO prepared statements)<br><br>Authentication architecture<br><br>User preference & token storage design<br><br>🧩 Other Skills<br><br>Hardware troubleshooting (RAM, boot issues)<br><br>IoT/tech project involvement<br><br>AI assistant building for internal company use
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/cosmic-gateway.gif" width="100%"/>
+ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPER;WEB+DEVELOPER;MOBILE+APP+DEVELOPER;AI+DEVELOPER;CLOUD+SOLUTIONS+ENGINEER;DATA+ANALYST+%26+SCIENTIST;FULL-STACK+DEVELOPER;AUTOMATION+SPECIALIST;PROBLEM+SOLVER;STARTUP+ENTHUSIAST)](https://git.io/typing-svg)
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manusiele&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=0d1117" />
+</div>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/manusiele.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Manu Siele) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@manusiele2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@emmanuel-siele) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Manu Siele) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Manu Siele) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Suspicious_Alps1585) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/manusiele) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@manusiele) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/manusiele) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@siele0579) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Manu-Siele) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Emmanuel siele Siele) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manusiele254@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manusiele&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manusiele&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manusiele&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manusiele&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://www.linkedin.com/in/emmanuel-siele-696541340/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/siele0579">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X/Twitter"/>
+  </a>
+  <a href="https://manusiele.kesug.com/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manusiele&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Professional Focus Areas
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/quantum-flutter.gif" width="80"/>
+        <h3>Mobile Development</h3>
+        <p>Cross-platform and native experiences with Flutter and Dart</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/neural-core.gif" width="80"/>
+        <h3>AI Engineering</h3>
+        <p>ML/DL model development and deployment</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/web-matrix.gif" width="80"/>
+        <h3>Web Systems</h3>
+        <p>Full-stack architecture and implementation</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/mind-tech.gif" width="80"/>
+        <h3>Digital Health</h3>
+        <p>Health tech solutions and innovations</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Technology Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,tensorflow,pytorch,keras,opencv,fastapi,nodejs,react,nextjs,tailwind,graphql,firebase,supabase,aws,gcp,azure,docker,kubernetes,git,github,linux,vscode,figma&perline=10&theme=dark" />
+</div>
+
+---
+
+## GitHub Analytics
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manusiele&show_icons=true&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manusiele&layout=compact&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=react-dark&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=00ffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manusiele&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&title_color=00ffff&color_scale=[00ffff,00d0ff]" />
+</div>
+
+---
+
+## Code Showcase
+```dart
+class SoftwareEngineer {
+  final String name = "EMMANUEL SIELE";
+  final String mission = "Building the future, one line at a time";
+
+  List<String> get expertise => [
+    "Cross-platform Mobile (Flutter & Dart)",
+    "AI/ML Model Development & Deployment",
+    "Full-Stack Web Architecture",
+    "Digital Health Innovation",
+    "Cloud & Automation Solutions"
+  ];
+
+  Future<void> solve(Problem problem) async {
+    thinkDeeply();
+    codeRelentlessly();
+    deployFearlessly();
+    improveContinuously();
+  }
+}
+
+## Future Focus
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>Advanced AI</h3>
+        <p>Edge AI, on-device inference, and generative models</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>Next-Gen Web</h3>
+        <p>Web3, edge computing, and real-time systems</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>Immersive Experiences</h3>
+        <p>AR/VR, spatial computing, and accessible interfaces</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/kenya-flag.gif" width="60"/>
+  <h3>Proudly Kenyan • Building for Africa & Beyond</h3>
+</div>
