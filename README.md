@@ -1,6 +1,6 @@
 <p style="padding-top :2rem"></p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/cosmic-gateway.gif" width="100%"/>
+
  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPER;WEB+DEVELOPER;MOBILE+APP+DEVELOPER;AI+DEVELOPER;CLOUD+SOLUTIONS+ENGINEER;DATA+ANALYST+%26+SCIENTIST;FULL-STACK+DEVELOPER;AUTOMATION+SPECIALIST;PROBLEM+SOLVER;STARTUP+ENTHUSIAST)](https://git.io/typing-svg)
 </div>
