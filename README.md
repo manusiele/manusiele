@@ -30,22 +30,18 @@
   <table>
     <tr>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/quantum-flutter.gif" width="80"/>
         <h3>Mobile Development</h3>
         <p>Cross-platform and native experiences with Flutter and Dart</p>
       </td>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/neural-core.gif" width="80"/>
         <h3>AI Engineering</h3>
         <p>ML/DL model development and deployment</p>
       </td>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/web-matrix.gif" width="80"/>
         <h3>Web Systems</h3>
         <p>Full-stack architecture and implementation</p>
       </td>
       <td width="25%" align="center">
-        <img src="https://raw.githubusercontent.com/manusiele/manusiele/main/assets/mind-tech.gif" width="80"/>
         <h3>Digital Health</h3>
         <p>Health tech solutions and innovations</p>
       </td>
