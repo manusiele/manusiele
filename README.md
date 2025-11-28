@@ -18,7 +18,7 @@
   <a href="https://x.com/siele0579">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X/Twitter"/>
   </a>
-  <a href="https://manusiele.kesug.com/portfolio/">
+  <a href="https://manusiele.kesug.com">
     <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Portfolio"/>
   </a>
 </div>
