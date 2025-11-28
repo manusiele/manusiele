@@ -60,19 +60,27 @@
 
 ## GitHub Analytics
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manusiele&show_icons=true&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manusiele&layout=compact&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=react-dark&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=00ffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manusiele&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&title_color=00ffff&color_scale=[00ffff,00d0ff]" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=manusiele&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&include_all_commits=true&count_private=true" alt="Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manusiele&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <!-- Line graph for contribution history instead of bar graph -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=manusiele&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true" alt="Contribution Graph"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
