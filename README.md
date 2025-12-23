@@ -128,6 +128,6 @@ class SoftwareEngineer {
 </div>
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqT65yD-9Pu8wlZzLltxNrPpzVH1NmoOoGw&s" width="60"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqT65yD-9Pu8wlZzLltxNrPpzVH1NmoOoGw&s" alt = "Kenyan Flag GIF" width="60"/>
   <h3>Proudly Kenyan • Building for Africa & Beyond</h3>
 </div>
