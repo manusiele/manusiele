@@ -49,30 +49,18 @@
   </table>
 </div>
 
----
 
-## Technology Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,tensorflow,pytorch,keras,opencv,fastapi,nodejs,react,nextjs,tailwind,graphql,firebase,supabase,aws,gcp,azure,docker,kubernetes,git,github,linux,vscode,figma&perline=10&theme=dark" />
-</div>
-
----
 
 ## GitHub Analytics
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=manusiele&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&include_all_commits=true&count_private=true" alt="Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manusiele&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" alt="GitHub Streak"/>
-      </td>
+     <td colspan="2" align="center">
+       <img 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=manusiele&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
+         alt="GitHub Streak"
+       />
+     </td>
     </tr>
     <tr>
       <td colspan="2">
@@ -85,49 +73,3 @@
 
 ---
 
-## Code Showcase
-```dart
-class SoftwareEngineer {
-  final String name = "EMMANUEL SIELE";
-  final String mission = "Building the future, one line at a time";
-
-  List<String> get expertise => [
-    "Cross-platform Mobile (Flutter & Dart)",
-    "AI/ML Model Development & Deployment",
-    "Full-Stack Web Architecture",
-    "Digital Health Innovation",
-    "Cloud & Automation Solutions"
-  ];
-
-  Future<void> solve(Problem problem) async {
-    thinkDeeply();
-    codeRelentlessly();
-    deployFearlessly();
-    improveContinuously();
-  }
-}
-
-## Future Focus
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3>Advanced AI</h3>
-        <p>Edge AI, on-device inference, and generative models</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>Next-Gen Web</h3>
-        <p>Web3, edge computing, and real-time systems</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>Immersive Experiences</h3>
-        <p>AR/VR, spatial computing, and accessible interfaces</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqT65yD-9Pu8wlZzLltxNrPpzVH1NmoOoGw&s" alt = "Kenyan Flag GIF" width="60"/>
-  <h3>Proudly Kenyan • Building for Africa & Beyond</h3>
-</div>
