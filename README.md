@@ -42,10 +42,6 @@
         <p>Full-stack development with Next.js, React & Cloudflare Workers</p>
       </td>
       <td width="25%" align="center">
-        <h3>Accessibility Tech</h3>
-        <p>Assistive solutions for visually impaired users via Android A11y Services</p>
-      </td>
-      <td width="25%" align="center">
         <h3>Networking & Infrastructure</h3>
         <p>MikroTik administration, hotspot billing & reverse engineering</p>
       </td>
