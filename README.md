@@ -31,19 +31,23 @@
     <tr>
       <td width="25%" align="center">
         <h3>Mobile Development</h3>
-        <p>Cross-platform and native experiences with Flutter and Dart</p>
+        <p>Native Android apps with Kotlin & Jetpack Compose</p>
       </td>
       <td width="25%" align="center">
         <h3>AI Engineering</h3>
-        <p>ML/DL model development and deployment</p>
+        <p>On-device ML, Gemini API integration & multimodal AI systems</p>
       </td>
       <td width="25%" align="center">
         <h3>Web Systems</h3>
-        <p>Full-stack architecture and implementation</p>
+        <p>Full-stack development with Next.js, React & Cloudflare Workers</p>
       </td>
       <td width="25%" align="center">
-        <h3>Digital Health</h3>
-        <p>Health tech solutions and innovations</p>
+        <h3>Accessibility Tech</h3>
+        <p>Assistive solutions for visually impaired users via Android A11y Services</p>
+      </td>
+      <td width="25%" align="center">
+        <h3>Networking & Infrastructure</h3>
+        <p>MikroTik administration, hotspot billing & reverse engineering</p>
       </td>
     </tr>
   </table>
