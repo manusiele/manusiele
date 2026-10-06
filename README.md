@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Emmanuel Siele**, a **Full-Stack Web Developer** passionate about building real-world projects and contributing to open source. Based in **Kisii, Kenya**, I'm actively exploring the intersections of **AI, Android development, IoT, and DevOps**.
 
@@ -71,7 +71,7 @@ I build across the stack — from polished frontends to robust backends — and 
 <tr>
 <td valign="top">
 
-### 📱 Mobile & IoT
+###  Mobile & IoT
 
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,arduino" height="42" alt="Android Studio Kotlin Flutter Arduino" />
@@ -83,7 +83,7 @@ I build across the stack — from polished frontends to robust backends — and 
 
 <td valign="top">
 
-### ⚙️ DevOps & Tools
+###  DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,githubactions" height="42" alt="Git GitHub Docker Linux VS Code GitHub Actions" />
