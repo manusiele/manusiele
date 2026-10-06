@@ -106,7 +106,7 @@ I build across the stack — from polished frontends to robust backends — and 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=manusiele&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=manusiele&theme=dark-smoky&hide_border=true&theme=transparent" alt="GitHub Streak" />
 
 <br/><br/>
 
