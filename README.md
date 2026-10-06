@@ -29,23 +29,23 @@ I'm **Emmanuel Siele**, a **Full-Stack Web Developer** passionate about building
 
 I build across the stack — from polished frontends to robust backends — and love turning ideas into production-ready products.
 
-* 🌐 **Full-Stack Development** — Web apps from frontend to backend, REST APIs, and modern UI
-* 🤖 **AI & Machine Learning** — Exploring practical AI integrations and intelligent systems
-* 📱 **Android Development** — Native and cross-platform mobile experiences
-* 🔌 **IoT** — Connecting hardware to the web with smart, embedded solutions
-* ⚙️ **DevOps** — CI/CD pipelines, containerization, and infrastructure automation
-* 🌍 **Open Source** — Contributing to and building community-driven projects
-* 🏢 **Affiliated with** — [BitBridge](https://bitbridge.co.ke/) & [Ophicore Digital](https://ophicore.digital/)
+*  **Full-Stack Development** — Web apps from frontend to backend, REST APIs, and modern UI
+*  **AI & Machine Learning** — Exploring practical AI integrations and intelligent systems
+*  **Android Development** — Native and cross-platform mobile experiences
+*  **IoT** — Connecting hardware to the web with smart, embedded solutions
+*  **DevOps** — CI/CD pipelines, containerization, and infrastructure automation
+*  **Open Source** — Contributing to and building community-driven projects
+*  **Affiliated with** — [BitBridge](https://bitbridge.co.ke/) & [Ophicore Digital](https://ophicore.digital/)
 
 ---
 
-## 🧩 Technical Stack
+##  Technical Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🌐 Frontend
+###  Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="42" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind" />
@@ -57,7 +57,7 @@ I build across the stack — from polished frontends to robust backends — and 
 
 <td valign="top" width="50%">
 
-### 🔧 Backend
+###  Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,postgres,mongodb,mysql" height="42" alt="Node.js Express Python PHP PostgreSQL MongoDB MySQL" />
@@ -97,7 +97,7 @@ I build across the stack — from polished frontends to robust backends — and 
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -122,7 +122,7 @@ I build across the stack — from polished frontends to robust backends — and 
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 <div align="center">
 
